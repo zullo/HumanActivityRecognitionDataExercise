@@ -1,0 +1,4 @@
+HumanActivityRecognitionDataExercise
+====================================
+
+HumanActivityRecognitionDataExercise
